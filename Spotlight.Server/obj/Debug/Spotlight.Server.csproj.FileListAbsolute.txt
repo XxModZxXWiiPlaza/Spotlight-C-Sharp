@@ -1,0 +1,15 @@
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\bin\Debug\__resource.lua
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\bin\Debug\Spotlight.Server.net.dll
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\bin\Debug\Spotlight.Server.net.pdb
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\bin\Debug\CitizenFX.Core.dll
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\bin\Debug\Spotlight.Shared.net.dll
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\bin\Debug\Spotlight.Shared.net.pdb
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\obj\Debug\Spotlight.Server.csprojAssemblyReference.cache
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\obj\Debug\Spotlight.Server.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\obj\Debug\Spotlight.Server.csproj.CopyComplete
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\obj\Debug\Spotlight.Server.net.dll
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Server\obj\Debug\Spotlight.Server.net.pdb
+C:\Users\zacha\Desktop\Spotlight build\__resource.lua
+C:\Users\zacha\Desktop\Spotlight build\Spotlight.Server.net.dll
+C:\Users\zacha\Desktop\Spotlight build\Spotlight.Server.net.pdb

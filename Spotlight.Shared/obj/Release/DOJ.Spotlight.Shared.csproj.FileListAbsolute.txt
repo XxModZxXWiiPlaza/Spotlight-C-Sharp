@@ -1,0 +1,5 @@
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Shared\bin\Release\DOJ.Spotlight.Shared.net.dll
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Shared\bin\Release\DOJ.Spotlight.Shared.net.pdb
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Shared\obj\Release\DOJ.Spotlight.Shared.csproj.CoreCompileInputs.cache
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Shared\obj\Release\DOJ.Spotlight.Shared.net.dll
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Shared\obj\Release\DOJ.Spotlight.Shared.net.pdb

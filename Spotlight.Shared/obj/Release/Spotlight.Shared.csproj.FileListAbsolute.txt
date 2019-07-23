@@ -1,0 +1,6 @@
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Shared\bin\Release\Spotlight.Shared.net.dll
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Shared\bin\Release\Spotlight.Shared.net.pdb
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Shared\obj\Release\Spotlight.Shared.csprojAssemblyReference.cache
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Shared\obj\Release\Spotlight.Shared.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Shared\obj\Release\Spotlight.Shared.net.dll
+C:\Users\zacha\Desktop\Spotlight\Spotlight.Shared\obj\Release\Spotlight.Shared.net.pdb

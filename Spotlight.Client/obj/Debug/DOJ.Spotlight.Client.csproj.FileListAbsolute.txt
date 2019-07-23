@@ -1,0 +1,11 @@
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Client\bin\Debug\DOJ.Spotlight.Client.net.dll
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Client\bin\Debug\DOJ.Spotlight.Client.net.pdb
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Client\bin\Debug\CitizenFX.Core.dll
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Client\bin\Debug\DOJ.Spotlight.Shared.net.dll
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Client\bin\Debug\Newtonsoft.Json.dll
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Client\bin\Debug\DOJ.Spotlight.Shared.net.pdb
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Client\obj\Debug\DOJ.Spotlight.Client.csprojAssemblyReference.cache
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Client\obj\Debug\DOJ.Spotlight.Client.csproj.CoreCompileInputs.cache
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Client\obj\Debug\DOJ.Spotlight.Client.csproj.CopyComplete
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Client\obj\Debug\DOJ.Spotlight.Client.net.dll
+E:\NSRP\Scripts\doj-spotlight-master-75463f526ba31120bd44eeac1b60ce0ca6414a88\DOJ.Spotlight.Client\obj\Debug\DOJ.Spotlight.Client.net.pdb
